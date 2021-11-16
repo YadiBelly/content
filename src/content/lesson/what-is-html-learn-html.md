@@ -18,11 +18,11 @@ status: "published"
 
 All web pages have HTML – it’s the structure of EVERYTHING. Think of it as the columns at a construction site.
 
-HTML allows you to divide the website information into parts – similar to the basic parts of a document: header, title, content, footnote, subtitle, etc.  Then, with CSS, you can make your page beautiful, and, with JavaScript, make it interactive.
+HTML allows you to divide the website information into parts – similar to the basic parts of a document: header, title, content, footnote, subtitle, etc.  Then, with CSS, you can make your page beautiful. With Java Script you can make it interactive.
 
 Originally, browsers only knew how to interpret HTML.  Websites were simple and neither CSS or JavaScript were used. A website was a simple plain-text document with the typical elements any Word Document has: headings, bullet-point lists, paragraphs, etc.
 
-![what is html](../../assets/images/85cedee2-3a9f-49b5-8bc8-d72e3fd739fc.png)
+[what is html](../../assets/images/85cedee2-3a9f-49b5-8bc8-d72e3fd739fc.png)
 
 
 # HTML Syntax: It’s All `<Tags>`.
